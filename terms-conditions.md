@@ -10,7 +10,7 @@ Expense Manager allows users to manually record their daily financial transactio
 - The App does not share user information with any third parties.  
 - Authentication information is securely stored and encrypted.  
 - The App does not collect, store, or process financial transaction details beyond what the user manually enters.  
-- For more details, refer to our [Privacy Policy](#).
+- For more details, refer to our [Privacy Policy](https://github.com/naveen-ku/docs-agreements/blob/main/privacy-policy.md).
 
 ## 3. Account Registration
 - Users must provide accurate and valid authentication details to register and use the App.  
